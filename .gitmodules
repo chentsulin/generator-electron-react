@@ -1,0 +1,3 @@
+[submodule "generators/app/templates/boilerplate"]
+	path = generators/app/templates/boilerplate
+	url = https://github.com/chentsulin/electron-react-boilerplate.git
